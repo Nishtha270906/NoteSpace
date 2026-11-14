@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
 
-const API = "http://localhost:5000/api";
+const API = "https://notespace-api-owzi.onrender.com/api";
 
 const tabs = [
   { id: "dashboard", label: "Dashboard", icon: "▦" },
